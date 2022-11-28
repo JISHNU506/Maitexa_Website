@@ -427,7 +427,7 @@
     width: 100%;
     height: auto;
     padding: 70px 0 20px 0;
-    background: #00abff;
+    background: linear-gradient(to right, #1e5799 0%, #3ccdbb 0%, #16c9f6 100%);
     position: relative;
   }
   .footersection p{
